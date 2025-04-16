@@ -10,7 +10,7 @@ paper：https://arxiv.org/abs/2412.16654
 
 ## Introduction
 
-IV-tuning is an efficient and effective Parameter-Efficient Transfer Learning (**PETL**) method for Infrared-Visible (**IR-VIS**) tasks. With approximately 3% of the backbone parameters trainable, IV-tuning achieves SOTA performance compared to previous IR-VIS methods, including Image Fusion methods and end-to-end IR-VIS methods in **Object Detection** and **Semantic Segmentation**.
+IV-tuning is an efficient and effective Parameter-Efficient Transfer Learning (**PETL**) method for Infrared-Visible (**IR-VIS**) tasks. With approximately 3% of the backbone parameters trainable, IV-tuning achieves SOTA performance compared to previous IR-VIS methods, including Image Fusion methods and end-to-end IR-VIS methods in **Salient Object Detection**, **Object Detection** and **Semantic Segmentation**.
 
 ## Framework
 
