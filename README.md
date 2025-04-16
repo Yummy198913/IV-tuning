@@ -65,8 +65,13 @@ IV-tuning is an efficient and effective Parameter-Efficient Transfer Learning (*
 | Swin-L+DINO    | FFT       | 192.50M           | 60.2            | 91.1            | 64.1            |        |      |      |
 | Swin-L+DINO    | IV-tuning | **6.06M(3.15%)**  | **61.1**(+0.9)  | **91.9**(+0.8)  | **66.0**(+1.9)  |        |      |      |
 
-
-
+## Visual Results
+### Salient Object Detection
+![sod](https://github.com/user-attachments/assets/50a2cd6c-8fcf-43f6-a3be-5d53f1cd2c99)
+### Semantic Segmentation
+![seg](https://github.com/user-attachments/assets/b2e8f141-f79f-42ee-a75b-e11b91af43b5)
+### Object Detection
+![det](https://github.com/user-attachments/assets/be308278-bae8-41f6-be4a-36f700ae5a3a)
 
 ## TODO
 - [ ] Upload the code, config file, checkpoint model and logs once the work is accepted.
@@ -82,5 +87,6 @@ If you find our work helpful, please cite our paper:
   year={2024}
 }
 ```
+
 
 
