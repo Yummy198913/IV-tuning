@@ -1,0 +1,4 @@
+[2025-04-15 04:48:25 PM-CPNet_train.py-INFO:CPNet-Train]
+[2025-04-15 04:48:34 PM-CPNet_train.py-INFO:Total Parameters (For Reference): 322177684]
+[2025-04-15 04:49:01 PM-CPNet_train.py-INFO:Config]
+[2025-04-15 04:49:01 PM-CPNet_train.py-INFO:epoch:200;lr:5e-05;batchsize:8;trainsize:384;clip:0.5;decay_rate:0.1;load:/data2/zym/Projects/mmdetection3d-main/pretrain/eva02_L_pt_m38m_p14to16_converted.pt;save_path:/data2/zym/Projects/CPNet-main/debug/;decay_epoch:100]
